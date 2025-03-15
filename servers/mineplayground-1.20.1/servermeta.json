@@ -1,0 +1,29 @@
+{
+  "$schema": "file:///D:/helios/mineplayground/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "마크 놀이터",
+    "description": "mineplayground Running Minecraft 1.20.1 (Fabric v0.16.10)",
+    "icon": "https://raw.githubusercontent.com/mycha0216/mineplayground-distro/main/serverIMG.png",
+    "address": "ls.lucystudio.kr:40046",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.16.10"
+  },
+  "untrackedFiles": [
+	{
+		"appliesTo": ["files"],
+		"patterns": [
+		  "options.txt",
+		  "servers.dat"
+		]
+	}
+]
+}
