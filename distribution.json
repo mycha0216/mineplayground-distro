@@ -12,7 +12,7 @@
       "name": "마크 놀이터",
       "description": "mineplayground Running Minecraft 1.20.1 (Fabric v0.16.10)",
       "icon": "https://raw.githubusercontent.com/mycha0216/mineplayground-distro/main/serverIMG.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "ls.lucystudio.kr:40046",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -231,9 +231,28 @@
           "type": "File",
           "artifact": {
             "size": 3640,
-            "url": "https://raw.githubusercontent.com/mycha0216/mineplayground-distro/main/servers/mineplayground-1.20.1/files/config/xaerominimap.txt",
-            "MD5": "9c0475d88449c799c48e92d595d879e8",
+            "url": "https://raw.githubusercontent.com/mycha0216/mineplayground-distro/main/servers/mineplayground-1.20.1/files/config/xaerominimap.txt",        
             "path": "config/xaerominimap.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5566,
+            "url": "https://raw.githubusercontent.com/mycha0216/mineplayground-distro/main/servers/mineplayground-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://raw.githubusercontent.com/mycha0216/mineplayground-distro/main/servers/mineplayground-1.20.1/files/servers.dat",
+            "path": "servers.dat"
           }
         },
         {
