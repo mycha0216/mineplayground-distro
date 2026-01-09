@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/helios/mineplayground/distro/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.3",
+    "version": "1.0.5",
     "name": "마크 놀이터",
     "description": "mineplayground Running Minecraft 1.20.1 (Fabric v0.16.10)",
     "icon": "https://raw.githubusercontent.com/mycha0216/mineplayground-distro/main/serverIMG.png",
