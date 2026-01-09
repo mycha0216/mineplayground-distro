@@ -5,7 +5,7 @@
     "name": "마크 놀이터",
     "description": "mineplayground Running Minecraft 1.20.1 (Fabric v0.16.10)",
     "icon": "https://raw.githubusercontent.com/mycha0216/mineplayground-distro/main/serverIMG.png",
-    "address": "ls.lucystudio.kr:40046",
+    "address": "mineplaylol.kro.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
