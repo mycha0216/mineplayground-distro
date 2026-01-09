@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.4",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "마크 놀이터",
       "description": "mineplayground Running Minecraft 1.20.1 (Fabric v0.16.10)",
       "icon": "https://raw.githubusercontent.com/mycha0216/mineplayground-distro/main/serverIMG.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "mineplaylol.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -163,16 +163,6 @@
             "size": 2668790,
             "url": "https://raw.githubusercontent.com/mycha0216/mineplayground-distro/main/servers/mineplayground-1.20.1/fabricmods/required/iris-1.7.0+mc1.20.1.jar",
             "MD5": "4fffc15dba4b021e626beea0ec00099b"
-          }
-        },
-        {
-          "id": "com.anthonyhilyard:legendarytooltips:1.4.5@jar",
-          "name": "Legendary Tooltips",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 63969,
-            "url": "https://raw.githubusercontent.com/mycha0216/mineplayground-distro/main/servers/mineplayground-1.20.1/fabricmods/required/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
-            "MD5": "da13b6865a45746799f4465409509a52"
           }
         },
         {
